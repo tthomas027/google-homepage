@@ -107,3 +107,16 @@ input:hover, input:active, input:focus{
     border: 1px solid #c6c6c6;
     color: #222;
 }
+
+#signin {
+    color: #fff;
+    cursor: default;
+    text-decoration: none;
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    background: #4285f4;
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+}

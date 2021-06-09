@@ -29,6 +29,11 @@ nav div a{
 a:hover{
     text-decoration: underline;
 }
+
+#apps:hover {
+    text-decoration: none;
+}
+
 nav div:nth-child(1) {
     justify-content: start;
 }
